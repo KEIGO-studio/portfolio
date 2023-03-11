@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="header" class="wrapper">
+        <h1 class="header-logo">
+            <img src="img011/logo_transparent.png">
+        </h1>
+        <div class="header-nav">
+            <ul>
+                <li>Top</li>
+                <li>My challenge</li>
+                <li>Judt Continue</li>
+            </ul>
+        </div>
+    </header>
+    <main>
+       <div id="mainvisual">
+        <div class="site-content">
+         <h2 class="site-title">Coding Practice Everyday!!</h2>
+         <p>Start from HERE</p>
+        </div>
+       </div>
+        
+        <section class="main-container">
+            <h2 class="section-title">My Challenge</h2>
+            <div class="secton-content">
+                <div class="content">
+                    <img class="first-img" src="img011/brooke-cagle-g1Kr4Ozfoac-unsplash (1).png">
+                    <div class="content-text">
+                        <div class="text">
+                            <p><strong>もくもく会in大阪のコーディング<br>イベントに参加してきました！！<br></strong></p>
+                        </div>
+                        <div class="text-date">
+                            <p class="first-date">2020.06.28</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    <img src="img011/brooke-cagle-NoRsyXmHGpI-unsplash.png">
+                    <div class="content-text">
+                        <div class="text">
+                            <p><strong>模写コーディングを１つ終わらせ<br>ることができました！！次はもう<br>少し難しいものに挑戦します！</strong></p>
+                        </div>
+                        <div class="text-date">
+                            <p>2020.07.02</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="content">
+                    <img src="img011/kevin-hendersen-MQ4eKnHtOUg-unsplash.png">
+                    <div class="content-text">
+                        <div class="text">
+                            <p><strong>「1冊ですべて身につくHTML&C<br>SSとWebデザイン入門講座」を<br>完走しました！！</strong></p>
+                        </div>
+                        <div class="text-date">
+                            <p>2020.07.10</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+           </div>
+           <div class="main-btn">
+            <p>もっと見る</p>
+           </div>
+          </secton>
+        </main>
+    <footer class="footer">
+        <section id="sub-container">
+            <h3 class="site-title">Just Continue</h2>
+            <p>日々、学び続ける<br>いつか、Webで世界を今より少しだけ<br>よくするために<br>でも、今は自分のために<br>毎日少しずつ勉強する<br>そんな私と共に学んでくれる方を募集しています</p>
+            <div class="footer-btn">
+                <p>お問い合わせしてみる</p>
+            </div>
+        </section>
+        <section id="footer-bottom">
+         <p>&copy; 2023 ALL Rights Reserved.</p>
+        </section>
+    </footer>
+</body>
+</html>
